@@ -1,5 +1,5 @@
 # WP + Bedrock + Docker
-A template to get bedrock rordpress running on docker;
+A template to get bedrock wordpress running on docker;
 
 Requires docker and composer.
 
@@ -19,4 +19,4 @@ $ docker-compose up
 ````
 
 ## That's it
-Navigate to [http://localhost](http://localhost) and start the WP install.
+Navigate to [http://localhost](http://localhost) and start the WP setup process.
